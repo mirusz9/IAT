@@ -1,2 +1,2 @@
 # IAT
-Implicit Association Test
+Implicit Association Test Project
